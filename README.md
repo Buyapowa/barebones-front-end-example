@@ -7,6 +7,8 @@ When my friends checkout, I should get a reward and be able to know I have a rew
 
 Customers can refer their friends, get rewards, and be incentivised to refer more friends.
 
+![Wireframe](wireframe.png)
+
 **Expectations**
 
 The following components will need to be created:
