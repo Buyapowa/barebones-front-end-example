@@ -1,0 +1,6 @@
+export default  {
+  SET_LINK: 'SET_LINK',
+  SET_USER: 'SET_USER',
+  SET_REWARDS: 'SET_REWARDS',
+  ADD_REWARD: 'ADD_REWARD',
+}

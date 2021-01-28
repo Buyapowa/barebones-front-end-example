@@ -1,0 +1,11 @@
+npx create-react-app buyapowa
+cd buyapowa
+npm install node-sass@4.14.1
+npm install react-router-dom
+npm install redux-devtools-extension
+npm install bootstrap jquery --save
+npm install css-loader style-loader --save-dev
+npm install popper.js --save
+npm install react-bootstrap-validation --save
+npm install --save-dev jest
+
